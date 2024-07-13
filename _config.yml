@@ -1,8 +1,7 @@
 title: Mariangel Reyes # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
+  Hi there! I'm Mariangel Reyes, a data analyst and physicist. I'm passionate about teaching technical subjects, programming, academic research in astrophysics, and helping companies make data-driven decisions. I love creating new things that take me out of my comfort zone. A day where I learn something new is a successful day. <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
