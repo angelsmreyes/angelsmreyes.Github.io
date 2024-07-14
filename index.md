@@ -21,12 +21,12 @@ For this project, I was curious about how some digital businesses could bring ec
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Education Project](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
+[<img src="images/.png?raw=true"/tableau_dashboard.png>](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
+In this case study, I was prompted to analyze the State of Massachusetts education data using data from the Massachusetts Department of Education Reports. The main focuses were:
+**Which math schools in the state are known for having the worst performance?**
+**Do schools in the same district have the same poor performance in math?**
+**Which schools are struggling the most?**
 
 ---
 
