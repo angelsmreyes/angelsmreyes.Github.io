@@ -22,7 +22,7 @@ For this project, I was curious about how some digital businesses could bring ec
 
 ---
 #### [Education Project](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
-[<img src="images/.png?raw=true"/tableau_dashboard.png>](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
+[<img src="images/tableau_dashboard.png?raw=true"/>](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
 In this case study, I was prompted to analyze the State of Massachusetts education data using data from the Massachusetts Department of Education Reports. The main focuses were:
 **Which math schools in the state are known for having the worst performance?**
 **Do schools in the same district have the same poor performance in math?**
