@@ -14,7 +14,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/delivery-food-apps-new-gold-mines-mariangel-reyes--hdkye/?trackingId=1yYMLQnISEeRqKtqXroYEw%3D%3D))
+#### [External Link Project](https://www.linkedin.com/pulse/delivery-food-apps-new-gold-mines-mariangel-reyes--hdkye/?trackingId=1yYMLQnISEeRqKtqXroYEw%3D%3D)
 [<img src="images/delivery_project.png?raw=true"/>](https://www.linkedin.com/pulse/delivery-food-apps-new-gold-mines-mariangel-reyes--hdkye/?trackingId=IZ17K3GtTH%2BPsYn2GiQ9qQ%3D%3D)
 For this project, I was curious about how some digital businesses could bring economic growth to a country. I used data from iFood, the leading food delivery app in Brazil, which was present in over a thousand cities. I aimed to answer the question: 
 **Are food delivery apps the new gold mines?**
