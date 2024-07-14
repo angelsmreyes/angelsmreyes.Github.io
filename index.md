@@ -16,7 +16,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/delivery_project.png?raw=true"/>](https://www.linkedin.com/pulse/delivery-food-apps-new-gold-mines-mariangel-reyes--hdkye/?trackingId=IZ17K3GtTH%2BPsYn2GiQ9qQ%3D%3D)
-For this project, I was curious about how some digital businesses can bring economic growth to a country. from IFood, the leading food delivery app in Brazil, which is present in over a thousand cities. I aim to answer the question: 
+For this project, I was curious about how some digital businesses can bring economic growth to a country. I use data from IFood, the leading food delivery app in Brazil, which is present in over a thousand cities. I aim to answer the question: 
 'Are food delivery apps the new gold mines?
 
 
