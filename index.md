@@ -24,7 +24,7 @@ In this case study, I was prompted to analyze the State of Massachusetts educati
 ---
 
 #### [Healthcare Project](https://www.linkedin.com/pulse/empowering-healthcare-data-mariangel-reyes--s9xte/?trackingId=44mPzgeDQVCmS09R7i3b2g%3D%3D)
-[](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
+[<img src="images/Copia de DAA Project Thumbnails.png?raw=true"/>](https://www.loom.com/share/fa98daf23bd941e68c65c64718cef0d8?sid=de5fac8d-70ff-4bbe-8aed-40eff5c3ef63)
 For this case study, I assumed the role of a Healthcare Analyst. I use data from 130 US hospitals and integrated delivery network health systems. The data spanned from 1999 to 2008 and I gained these key insights from the data I analyzed:
 
 **- The majority of patients stay in the hospital between 1 and 7 days. The highest peak in the distribution occurred on day 3 with a total of 17,756 patients. Also, as the length of hospital stay increases, the number of patients decreases.**
