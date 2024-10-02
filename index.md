@@ -30,7 +30,8 @@ For this case study, I assumed the role of a Healthcare Analyst. I use data from
 - The majority of patients stay in the hospital between 1 and 7 days. The highest peak in the distribution occurred on day 3 with a total of 17,756 patients. Also, as the length of hospital stay increases, the number of patients decreases.
 
 - Surgery-Thoracic, Surgery-Cardiovascular/Thoracic, and Radiology are the medical specialties with the highest average number of procedures. However, the medical specialty with the highest number of patients (5,352) is Cardiology, which reflects the fact that heart disease is the leading cause of death in the United States.
-The hospital treats patients of different races equally, as the average number of lab procedures is similar across all racial groups.
+
+- The hospital treats patients of different races equally, as the average number of lab procedures is similar across all racial groups.
 
 - There is a positive correlation between the average length of a hospital stay and the number of lab procedures performed. Hence, the category 'many' has an average hospital stay of 5.65 days.
 
